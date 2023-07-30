@@ -1,5 +1,4 @@
-
- New text 1
+New text 1
  New text 2
  New text 3
  New text 1
